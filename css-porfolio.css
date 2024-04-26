@@ -38,16 +38,21 @@
     cursor: default;
     font-weight: 600;
   }
+
+ 
   
   .navbar a {
     font-size: 1.7rem;
     color: white;
     margin-left: 4rem;
   }
+  /* .navbar a:hover, */
+  
   .navbar a:hover,
   .navbar a.active {
-    color: rgb(12, 133, 133);
+    color:rgb(12, 133, 133);
   }
+  
   #menu-icon {
     font-size: 3.6rem;
     color: white;
